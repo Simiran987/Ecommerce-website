@@ -15,36 +15,36 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Getting Started
-**Create a new GitHub repository.**
-**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.**
-**Add the main files and folders to the main branch.**
-**Add the following files in separate commits -**
-1. A .html file for the skeletal makeup of the webpage.
-2. A .css file for styling the webpage.
-3. A .js file for styling the webpage.
-**Keep learning!!!**
+**Create a new GitHub repository.**<br>
+**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.**<br>
+**Add the main files and folders to the main branch.**<br>
+**Add the following files in separate commits -**<br>
+1. A .html file for the skeletal makeup of the webpage.<br>
+2. A .css file for styling the webpage.<br>
+3. A .js file for styling the webpage.<br>
+**Keep learning!!!**<br>
 
 ### Prerequisites
 Knowledge of HTML, CSS, Git & GitHub flows and documenting a repo in a professional way
 
 ### Setup
-Ensure to have git installed in your environment otherwise download it using the following -
+Ensure to have git installed in your environment otherwise download it using the following -<br>
 
-* [Git](https://git-scm.com/downloads "Download Git")
+* [Git](https://git-scm.com/downloads "Download Git")<br>
 
-And make sure to install git
+And make sure to install git<br>
 
-## Install
+### Install
 A browser is required to be installed for view the contents and an Code editor to edit the code.
 
 ### Usage
--
+
 
 ### Run tests
--
+
 
 ### Deployment
--
+
 
 ## Authors
 
@@ -70,5 +70,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is **free to use** and does not contains any license.
-
-![](https://img.shields.io/badge/Microverse-blueviolet)
